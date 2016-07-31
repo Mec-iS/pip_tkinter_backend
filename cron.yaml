@@ -1,0 +1,4 @@
+cron:
+- description: main
+  url: /cron/main
+  schedule: never
